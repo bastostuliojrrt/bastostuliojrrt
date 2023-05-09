@@ -25,7 +25,7 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastostuliojrrt&layout=compact&langs_count=7&theme=github_dark"/> -->
 </div>
 
-  <div align="left">Known technologies:</div>
+### 💻 Known technologies:
 <div align="center"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
