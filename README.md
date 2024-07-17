@@ -12,7 +12,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastostuliojrrt&bg_color=161B22&color=05B0DB&line=FFFFFF&point=00CCFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<br>
 
 📫 How to reach me:
 <div> 
@@ -22,15 +22,20 @@
 
 </div>
 
-##
-
+<!--    
 <div align="left">
   <a href="https://github.com/bastostuliojrrt">
-<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bastostuliojrrt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastostuliojrrt&layout=compact&langs_count=7&theme=github_dark"/> -->
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bastostuliojrrt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastostuliojrrt&layout=compact&langs_count=7&theme=github_dark"/>
+</div> 
+-->
 
+##
+    
+<img style="border-radius: 10;" src="https://cdn.dribbble.com/userupload/14313369/file/original-177086e6340d11b309bf4ba8251d1a90.png?resize=1024x1024" min-width="200px" max-width="400px" width="300px" align="left" alt="Computador iuriCode">
+    
 ### Main skills:
+
 <div style="display:flex; justify-content:center; align-items:center;">
 
   <img width="45" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
@@ -48,7 +53,13 @@
   <img width="45" style="margin-right: 20px; "src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="Git" />
   <img width="45" style="margin-right: 20px; "src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" />
   <img width="120" style="margin-right: 20px; "src="https://planningit.wordpress.com/wp-content/uploads/2022/05/totvs-protheus.png" alt="Github" />
-  
+</div>
+
+### Studying in this moment:
+
+<div>
+  <img width="45" style="margin-right: 20px; "src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_logo_icon_146554.png" alt="Docker" />
+
   
 </div>
 
