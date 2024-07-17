@@ -38,21 +38,24 @@
 
 <div style="display:flex; justify-content:center; align-items:center;">
 
-  <img width="45" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-  <img width="45" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/> 
-  <img width="45" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />  
-  <img width="45" style="margin-right: 20px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" alt="AdvPL" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="AdvPL" />
+  <img width="35" style="margin-right: 20px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" alt="AdvPL" /> 
   
 </div>
 
 ### Tools:
 <div>
-  <img width="45" style="margin-right: 20px; " src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCode" />
-  <img width="45" style="margin-right: 20px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
-  <img width="45" style="margin-right: 20px; "src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt="Microsoft Office" />
-  <img width="45" style="margin-right: 20px; "src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="Git" />
-  <img width="45" style="margin-right: 20px; "src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" />
-  <img width="120" style="margin-right: 20px; "src="https://planningit.wordpress.com/wp-content/uploads/2022/05/totvs-protheus.png" alt="Github" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img width="90" src="https://static.wixstatic.com/media/faa3d3_1547befb751b4589b8e2c03d5441d472~mv2.png/v1/fill/w_560,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/faa3d3_1547befb751b4589b8e2c03d5441d472~mv2.png" alt="AdvPL" />
 </div>
 
 ### Studying in this moment:
