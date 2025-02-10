@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="AdvPL" />
-  <img width="35" style="margin-right: 20px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" alt="AdvPL" /> 
+  <img width="35" style="margin-right: 20px;" src="https://icon-icons.com/download/130762/PNG/512/file_type_advpl_icon_130762.png" alt="AdvPL" /> 
   
 </div>
 
