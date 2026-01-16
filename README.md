@@ -2,12 +2,12 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=05B0DB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Tulio+Bastos;I'm+a+TOTVS+Service+Consultant;Web+Developer;and+AdvPL+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastostuliojrrt&show_icons=true&count_private=true&hide_border=false&title_color=05B0DB&icon_color=05B0DB&text_color=c9d1d9&bg_color=0d1117" alt="Tulio Bastos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastostuliojrrt&layout=compact&hide_border=false&title_color=05B0DB&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
+-->
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastostuliojrrt&bg_color=161B22&color=05B0DB&line=FFFFFF&point=00CCFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
